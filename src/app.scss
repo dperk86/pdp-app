@@ -1,0 +1,14 @@
+$bodyColor: #f7f7f7;
+
+body {
+	background: $bodyColor;
+	color: #666;
+}
+
+#app {
+	width: 100%;
+}
+
+.product-content {
+	max-width: 600px;
+}
